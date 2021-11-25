@@ -10,7 +10,7 @@
 
 #### 1.2导入CrashScope
 
-在idea中选择文件-导入已有项目，下载lib.rar（地址链接：https://pan.baidu.com/s/1MdCvne4dYHXlEDkw5VpDBw  提取码：1111）并在根目录解压，并在project structure中将lib设置为lib所在文件夹
+在idea中选择文件-导入已有项目，并在project structure中将lib设置为lib所在文件夹
 
 #### 1.3修改相关路径
 
